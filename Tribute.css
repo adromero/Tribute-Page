@@ -1,0 +1,9 @@
+#picture{
+  margin: 0 auto;
+  background-color: blue;
+  width: 400 px;
+}
+#pic1 {
+	margin-left: auto;
+	display: block;
+}
